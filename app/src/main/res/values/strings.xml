@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quiz_Assignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="title_activity_questions_list_view" translatable="false">QuestionsListView</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="question">Question</string>
+    <string name="enter_question">Enter Question</string>
+    <string name="submit">Submit</string>
+    <string name="True">true</string>
+    <string name="False">false</string>
+    <string name="see_question_list">See Question List</string>
+    <string name="TRUE">TRUE</string>
+    <string name="FALSE">FALSE</string>
+    <string name="question_list">Question List</string>
+    <string name="question_bank">Question Bank</string>
+    <string name="add_new_question">Add new question</string>
+    <string name="get_the_avarage">Get The Avarage</string>
+    <string name="select_the_number_of_question">Select the number of Question</string>
+    <string name="reset_the_saved_result">Reset the saved Result</string>
+    <string name="edit_question_bank">Edit Question Bank</string>
+    <string name="go_to_home_page">Go To Home Page</string>
+    <string name="answer">Answer:</string>
+</resources>

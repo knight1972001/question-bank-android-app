@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Câu hỏi kiểm tra</string>
+    <string name="next">Tiếp tục</string>
+    <string name="previous">Lùi</string>
+    <string name="add_new_question">Thêm câu hỏi mới</string>
+    <string name="question">Câu Hỏi:</string>
+    <string name="enter_question">Nhập câu hỏi</string>
+    <string name="submit">Gửi</string>
+    <string name="True">Đúng</string>
+    <string name="False">Sai</string>
+    <string name="see_question_list">Xem danh sách câu hỏi</string>
+    <string name="TRUE">Đúng</string>
+    <string name="FALSE">Sai</string>
+    <string name="question_list">Danh sách câu hỏi</string>
+    <string name="question_bank">Ngân hàng câu hỏi</string>
+    <string name="get_the_avarage">Xem trung bình</string>
+    <string name="select_the_number_of_question">Chọn câu hỏi</string>
+    <string name="reset_the_saved_result">Xóa kết quả đã lưu</string>
+    <string name="edit_question_bank">Chỉnh sửa ngân hàng câu hỏi</string>
+    <string name="go_to_home_page">Đi dến trang chủ</string>
+    <string name="answer">Câu trả lời:</string>
+</resources>
